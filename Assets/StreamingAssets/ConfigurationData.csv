@@ -1,0 +1,7 @@
+PlayerMoveUnitsPerSecond,10
+BombInitialImpulseForce,5
+BombSpeedupAddForce,2
+MinSpawnTime,8
+MaxSpawnTime,12
+InitialLevelTimer,30
+LevelTimerIncrease,10
